@@ -1,4 +1,4 @@
-;  Write a program that stores value of BCDEh between 
+; Write a program that stores value of BCDEh between 
 ;0100:0300h and 0100:03FFh memory addresses. 
 
 
